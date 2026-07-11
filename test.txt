@@ -1,3 +1,0 @@
-Test
-
-Pour l'instant le fichier est bien persistent.
