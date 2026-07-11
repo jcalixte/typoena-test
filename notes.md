@@ -13,5 +13,3 @@ Testing sync.
 Testing sync.
 
 Ça marche encore bien ! Je suis étonné de voir qu'à part le texte, tout autour a un temps d'affichage suffisant.
-
-Maintenant, quoi faire ?
