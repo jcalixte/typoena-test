@@ -8,7 +8,6 @@ spike 7 test Sun Jul  5 19:33:58 CEST 2026
 
 Now it's my turn.
 
-
 Testing sync.
 
 Testing sync.
