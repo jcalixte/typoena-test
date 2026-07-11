@@ -9,3 +9,5 @@ Testing sync.
 What's the matter? Ok, I think we're pretty good.
 
 Bonjour.
+:w
+
