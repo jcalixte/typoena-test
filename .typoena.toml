@@ -1,6 +1,7 @@
 # Typoena editor preferences — hand-editable, git-tracked.
-# Edit here, or toggle live from the Cmd-P palette (type `>`).
-save_on_idle = false
+# Edit here, or change live from the Cmd-P palette (type `>`).
+save_on_idle = true
 format_on_save = true
 line_numbers = true
+theme = "light"
 auto_sync = "5m"
